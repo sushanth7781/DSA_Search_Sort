@@ -1,3 +1,5 @@
+package DSA_Search_Sort.insertion_sort;
+
 public class i1 {
     public static void main(String[] args) {
         int[] myArray = {64, 34, 25, 12, 22, 11, 90, 5};
